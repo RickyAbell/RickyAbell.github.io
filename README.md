@@ -1,8 +1,8 @@
-#Ricky Abell Personal Website
+# Ricky Abell Personal Website
 
 This website is a showcase for my experience and links to contact me
 
-##Setup
+## Setup
 
 Pull down dependencies, from the root of the project directory run
 ```
